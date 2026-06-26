@@ -1,0 +1,15 @@
+artifact_path: file:///E:/Certificate_on_MLDL/guided 2 to 5/customer_segmentation/mlruns/1/models/m-a22306398aaa44b381d15745507b6289/artifacts
+flavors:
+  sklearn:
+    code: null
+    pickled_model: model.skops
+    serialization_format: skops
+    sklearn_version: 1.7.2
+    skops_trusted_types: null
+mlflow_version: 3.14.0
+model_id: m-a22306398aaa44b381d15745507b6289
+model_size_bytes: 110873
+model_uuid: m-a22306398aaa44b381d15745507b6289
+prompts: null
+run_id: bead691abf0540b8aab8abe938e2f0aa
+utc_time_created: '2026-06-26 16:35:31.404873'

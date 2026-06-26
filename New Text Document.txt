@@ -1,0 +1,5 @@
+Next steps:
+1. Download 'Online Retail.xlsx' and place it in the 'data/' folder.
+2. Run: pip install -r requirements.txt
+3. Run: python -m src.pipeline.training_pipeline
+4. Run: streamlit run app/app.py
